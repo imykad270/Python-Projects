@@ -5,7 +5,7 @@ A company, especially Human Resource team, have to spend a lot of time and money
 ### Cost/Loss of vacancy to the company.
 
 1. Annual Revenue Per Employee= Annual Revenue / Number of Employee
-   Annual Revenue Per Employee = $ 155 billion /190000 = $ 8,15,790
+   Annual Revenue Per Employee = $ 155 billion /190000 = $8,15,790
    
 2. Daily Revenue Per Employee = Annual Revenue Per Employee / 365 Days
    Daily Revenue Per Employee = 815790/365 = $ 2,235
