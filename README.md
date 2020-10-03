@@ -27,3 +27,4 @@ Sources:
 2. https://builtin.com/recruiting/cost-of-vacancy
 3. https://www.talentlyft.com/en/blog/article/258/recruitment-metrics-time-to-hire#:~:text=The%20other%2070%25%20of%20companies,a%20position%20is%2036%20days.
 4. https://www.indeed.com/
+5. https://store.hbr.org/product/hr-analytics-at-scaleneworks-behavioral-modeling-to-predict-renege/IMB551
